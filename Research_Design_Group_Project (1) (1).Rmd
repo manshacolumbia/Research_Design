@@ -1,0 +1,488 @@
+---
+title: "Marketing sustainable fashion: Explicit vs Implicit communication"
+author:  "Mansha Manchanda"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, comment="", warning = FALSE, message = FALSE, tidy.opts=list(width.cutoff=55), tidy = TRUE)
+```
+
+## Part 1:  Research Proposal
+
+### Executive Summary / Abstract
+
+
+Sustainability issues in the fashion industry  are drawing more attention in recent decades, however, the need for sustainability is not always reflected in the purchasing behavior. The effect of marketing on consumers’ behavior toward sustainable fashion becomes unclear due to a research gap on how sustainability should be marketed to consumers. This study investigates to find the most effective method of marketing of sustainable fashion products to customers, we introduced the method of marketing and gender as independent variables, number of units sold as the dependent variable in the research study. In general, marketing methods can be divided into two different types - Explicit, wherein brand overall is projected as sustainable, i.e. store-centred sustainability, and Implicit, where the products are marketed to be sustainable, i.e., product-centred sustainability. Also, we compared the difference in purchasing behavior in gender under the condition for each marketing type. 
+
+In terms of statistical test, t-test is utilized in the research. Confounding bias will be eliminated as a randomized  stratified sampling experiment will be conducted by controlling all other variables (age, income, etc.) for groups.
+
+
+
+
+### Statement of the Problem
+
+
+
+Fashion and apparel are among the most critical day-to-day consumption for people; however, the industry has received criticism regarding sustainability issues in recent decades. Different studies show that the fashion industry produces between 2-and 8% of global carbon emissions (UN Environment Programme, 2021; World Resources Institute, 2021). Due to the excessive use of water, synthetic materials, and growing industry, environmental damage increases. Fashion brands are now producing almost twice the amount of clothing today compared with before 2000a (Niinimäki et al., 2020).
+ 
+From the retailers’ perspective, we observed that a majority of fashion retailers have been aware of the issue and are taking action in marketing campaigns to improve sustainability in recent years. For example, in 2017, fashion designer Stella McCartney teamed up with Ellen MacArthur Foundation, a Circular Economic pioneer, by launching a report on the textile manufacturing process and proposing a new business model for the future fashion industry (Ellen MacArthur Foundation, 2017). Also, in 2018 jeans manufacturer Guess teamed up with i: Collect, a global advisor in apparel and footwear recycling and sorting, to launch a wardrobe recycling program in the US and brought the initiative to the global by 2020 (Singh, 2018). Given the increasing attention on sustainability in fashion, most academic studies have been able to test the consequences of sustainability in the fashion industry and prove an understandably significant difference to the environment. However, from a consumer perspective, we still see actions of purchasing fashion products not always reflect the increasing social awareness of
+sustainability.  In general, fast fashion products are usually short-lasting, low-quality materials that are not biodegradable with lower costs, and thus, a non-sustainable business model. This being the case, fast fashion brands such as Zara, H&M, Forever21, etc., clearly have a social duty to move towards sustainable clothing. The effect of marketing on consumers’ behavior toward sustainable fashion becomes unclear due to a research gap on how sustainability should be marketed to consumers.
+
+According to a study from Harvard Business Review, people have shown positive attitudes toward sustainability; however, they do not buy the products (Steffel et al., 2016). The brands think that marketing slow fashion in a certain way can affect buying behaviour. According to 'journal' (Lee et al., 2020), priming green logos and eco marketing can influence consumer behaviour towards buying the product. This study aims to identify if providing mellow green logos and labels persuades the customer to purchase a product or direct marketing by positioning a brand as an utterly sustainable brand that makes the customer buy the product more. There is a research gap on how sustainability should be marketed to consumers. General consumers are aware of the need for sustainability, and they have positive attitudes towards eco-friendly marketing, but their actual behaviors don't usually reflect the sustainability need. Yet, consumers will be paying a premium price when they purchase sustainable products. This study explores whether implicit marketing, such as mellow green logos and labels, persuades customers to buy a product or whether direct marketing of positioning a brand as an absolute sustainable brand encourages consumers to buy it.  By doing this study, we envision finding the most efficient marketing strategy for fashion companies
+
+
+
+### Research Questions and Hypotheses 
+ 
+
+1)Does applying different marketing communications have an affect on the average number of units sold?
+
+The study explores how marketing affects fashion customers' eco-fashion consumption decisions (Tanner and Kast, 2003). A research question is raised to understand which marketing communication is more effective in increasing the average units per store. The null hypothesis states that no matter what approach is applied to customers, either communication channel does not make a meaningful difference in average sales revenue. The alternative hypothesis is that the customer's willingness to purchase is affected, and average sales are subjected to a change if they are appealed to different marketing strategies. 
+
+2)Should we use the same strategy for females and males?
+ 
+Marketers often use gender-based segmentation to meet men's and women's different needs and preferences.However, the literature on consumer behaviour has not fully explored the role of gender in decision-making. Specifically, there are hardly any studies investigating the decision-making strategy of male and female consumers. Our research goal is to determine whether our marketing strategies work equally well for females and males in purchasing clothing made from sustainable materials. Males and females have different consumer attitudes because females' attitudes are more impulsive, and men pay more attention to the value of the products themselves. And for the new development of clothing with sustainable materials, will our strategy affect them still differently? The null hypothesis is that there is no difference in the attitudes of males and females towards the process; the alternative hypothesis is that females are more likely to buy our products under the marketing strategy.
+
+
+
+### Importance of the Study
+
+ 
+
+The study aims to make efficient marketing communication recommendations for fashion brands developing sustainability. As the brand Zara moves towards sustainability and creating eco-friendly clothing, our research will assist them in determining whether their marketing strategy should be implicit, i.e., keep it subtle and focused on marketing sustainability on the product feature, or explicit, i.e., position the brand as a completely sustainable brand as a whole.
+
+We must conduct this study because, as the brand moves towards manufacturing sustainable clothing, it does not want to jeopardize its profit margins or sales in any way; thus, this study experiments on customers' shopping behaviour and would be able to prepare fashion brands to choose the appropriate and most efficient means of marketing communications that will positively affect their sales. In other words, the experiment will try to simulate how the sustainability feature will be communicated to the population of interest when presenting a sustainable fashion product and record the sales concerning the means of communication. 
+
+Furthermore, this research will aid in differentiating the gender response to this communication.
+
+We will be able to comprehend the strategy for maximizing profits and sales for a specific gender, respectively. According to the study's findings, the brand can tailor the female products page, and male products page differently according to the obtained results to increase the chances of a sale. For example, suppose the average sales for females are higher when marketing communication is implicit, and average sales for male are higher when marketing communication is explicit. In that case, the website can customize the female products page to the high yielding communication strategy implicit for females, and communications can be explicit for male product pages.
+
+This research will help brands like Zara to adapt to the new marketing communication as the world becomes more aware of the environment and sustainability
+
+
+
+### Literature Review
+
+ 
+
+Sustainability has become the need of the hour, and significant efforts are made to promote consumers' sustainable consumption(Di Benedetto, 2017). Sustainability refers to the ability of biological systems to remain diverse and productive. People's long lives and the healthy state of the environment and the people that constitute the global community is the organising principle of sustainable development (Steffel et al., 2016). Theoretical foundations and managerial consequences of sustainability in fashion have been prolifically researched and documented. The American Customer Satisfaction Index (ACSI) used an index of sustainable fashion to assess the sustainability of fashion companies in the retail and supply chain (Balderjahn et al., 2018). (Kim et al., 2020) the effects of social power, parasocial interactions, and social capital on consumers' purchase intentions regarding sustainable fashion products on YouTube were analysed. Three practices related to the consumption of sustainable organic food—investing in long-term wellbeing, expressing the sustainability values, and signalling social status—and found that these practices are similar to those of consumption of modern luxury fashion (Fifita et al., 2020).
+
+Three general attitudes toward fashion consumption are sustainability (entity 1); product attributes, such as the price and design of sustainable fashion products (entity 2); and individuals' actual purchase behaviour regarding sustainable fashion (entity 3). Individuals might have a lukewarm or negative attitude toward entity 3 (sustainability behaviour) because, even if they feel mildly positive about entity 1 (i.e., sustainability attitude), their attitude toward entity 2 (e.g., high price) is negative(Steffel et al., 2016). Consumers often have positive attitudes about sustainable fashion, yet their fashion purchases are not linked to sustainability, revealing an unbalanced psychological state(Lee et al., 2020). According to the law of demand, the higher the price, the lower the quantity demanded (Fernando, 2021). The 'price' of the products remains among the biggest obstacles to the large-scale adoption of sustainable fashion products. However, designing buying decisions in a way that nudges but does not force consumers to make better choices offers a way to alleviate many of society's problems (Steffel et al., 2016). Product placement is a crucial factor influencing buying decisions. A significant effort has been made to establish a framework for sustainable marketing; however, there is a research gap on developing best practices for the same. The gap between consumers' attitudes and their behavior is a significant challenge in sustainability fashion marketing (Lee et al., 2020). Neuromarketing strategies have shown increased brain activity to green logos and environmental priming messages (Lee et al., 2020). Among other factors, product-related attributes (PRA) of sustainable fashion (e.g., product design, quality, and price) and store-related attributes (SRA) of sustainable fashion (e.g., store design and environment, store's ethical practices, and shop convenience) have been argued as factors that influence the sustainable fashion buying decision (Niinimäki, 2010). A brand is said to have positive (negative) customer-based brand equity when consumers react more (less) favourably to an element of the marketing mix for the brand than they do to the same marketing mix element when it is attributed to a fictitiously named or unnamed version of the product or service (Keller, 1993). A careful perusal of consumer purchase behaviour for sustainable fashion choices is the need of the hour. Marketing efforts based on the sustainability of the product, i.e., sustainability as a salient feature of the product in comparison to marketing explicitly on the sustainability of the brand as a whole, as to which is the better practice is what this research seems to investigate. 
+
+
+
+### Research Plan
+
+ 
+
+This research project is being conducted in collaboration with a fashion brand called ZARA, which is well established and has significant brand equity. The population of interest is the whole customer base of ZARA. The sample population of this research are randomly selected from customers with similar demographics and purchase behaviour from the last six months. Email invitations were sent to 1000 existing ZARA customers, out of which 500 customers agreed to participate in the study. Stratified sampling was done to balance out the gender and income metric so that the sample could be divided into two groups (Group A and B), 250 customers each. The two groups will be treated with different marketing approaches on the same products with the same price. Group A is treated to the explicit marketing communication on sustainability wherein the brand is projected as sustainable, i.e. store-centred sustainability. Group B has treated the implicit sustainable marketing wherein the brand page is not centred around sustainability. Still, the product has a sustainable green logo beside its image with descriptions focusing on sustainability (i.e., product-centred sustainability). Both groups are given a week to look at the products and make their purchase decisions. The study's independent variable will be the marketing communication method of sustainable products (explicit vs implicit). The units sold for each customer and the money spent by each customer are recorded as dependent variables. 
+
+
+
+#### Population of Interest
+
+ 
+
+The research study focuses on understanding the effectiveness of different sustainable marketing communications on the whole current customer base of the fashion brand ‘Zara.’
+This brand operates in 86 countries, and its products are in huge demand. 60% of the customer base of ZARA is adult females, 25% is adult males, and the rest, 15% are young people below age 18. This research focuses on the complete ‘adult’ customer base of ZARA, explicitly focusing on the customers in North America and Europe, which comprises 80% of sales volume. Predominantly the population is young, with an average age of 27. 
+
+
+#### Sample Selection
+
+ 
+
+Specifically selected customers with decent purchase history in the last six months with identical purchase metrics are emailed to participate in the research study. Once they agree to participate, we will first randomly send them either implicit or explicit shopping links. We expect to select 500 participants in total. The customers who agree to participate in the study are divided into ‘strata’ based on common characteristics like income, purchase metrics, gender, etc. Further random sampling is performed on different strata such that it represents the whole customer base of ZARA. 
+
+
+#### Sample Size
+
+ 
+
+ It is impossible to explore the whole population individually when studying large populations. So we take a sample that represents the population. Below is the formula for an
+appropriate sample size. With a confidence level of 95% and an error margin of 6 to 7 % error, 250 people in a group are suitable. 
+
+
+#### Operational Procedures
+
+ 
+
+The standard operating procedure of our study will be established to maximize the accuracy of data and flexibility of the approach. Our researchers will follow the exact guidelines along the timeline of our research study. We plan to send out email invitations labelled as “sign up for sustainability research campaign” to our existing customers. We will not use any reward or compensation to encourage any decision to minimize participation bias. The number of email invitations will be sent as many as possible (expecting 1,000 or more) since we want our sample pool to reflect the actual population of interest accurately. They are only considered if they have trackable purchase history within the last six months. The time interval between sending out emails and closing the links will be two weeks.
+
+Those who have agreed to participate and signed up for the study will be randomly selected to receive either explicitly or implicitly marketed shopping links. Products included on the website are from a new lineup consisting of only sustainable clothes. Those that receive the email and sign up for our research will be able to shop on the entire website. In this procedure, our team will stratify samples that made purchases with us and divide them into two samples to study purchasing behaviour differences. They have one week to enter the shopping website before shutting down. We will send a reminder to every shopper every two days of that week. After that, we will compare the outcomes of the two groups regarding which strategy is more acceptable.
+
+
+### Brief Schedule
+
+ 
+
+The first phase of our operational procedure is to send out invitation emails and wait to sign up. This phase should take two weeks. The next step is to verify the total number of potential participants (those who sign up for our study) and randomly assign them either explicitly or implicitly marketed shopping links. We will then send out the actual shopping link through emails again and wait for one week. Every potential participant will receive a reminder email every two days of the week. After that, we will apply stratified sampling to have 250 participants in each marketing approach and compare the outcome. Finally, we will analyse the collected data and report recommendations to Zara.
+
+
+#### Data Collection
+
+ 
+
+Data collection entails gathering information from the target population that is required to answer the research questions and achieve the research goal. We will collect customer information such as email addresses from Zara's communication data. The data for this study will be obtained directly from the respondents. Hence, we will then send a survey to 1000 random customers to get their agreement towards the research and get the required information to get a sample from the population. 
+
+We will collect demographic information and other associated variables from users of the Zara website via the existing database, such as age, income, purchasing habits, and location. As a result, we will be able to ensure that the samples chosen are appropriate for the study and reflect the population of interest.  
+
+Furthermore, for the chosen customers, their units sold and the amount spent in a week is recorded.
+
+
+
+#### Data Security
+
+ 
+
+Ensuring data security starts with storage, transmission, and use. It is recommended to strictly control who has permission on the key vault to ensure that only authorized personnel can access and manage the critical vault, keys, secrets, and certificates. Considering that the demographics and income information are personal, the names and identifying information are masked. Access to report on the research is only provided to the high-level officers of Zara with a security clearance. Data in transit is vulnerable to attack, whether over private networks, local devices, or public/untrusted spaces. It is widely believed that encrypting data in transit is the standard method. Also, identify any necessary precautions to maintain the confidentiality and security of the records. For researchers involving these subjects, details on the training and certifications should also be included.
+
+
+#### Outcomes (Dependent Variables)
+
+
+ 
+
+The dependent variable of this study is the units sold recorded for every purchase by each customer who took part in the experiment. Outcomes are computed by calculating the average number of units sold (sum of units sold by the group divided by the number of customers) for both the treatment and control groups.
+
+
+
+#### Treatments (Independent Variables)
+
+ 
+
+The independent variables for the study are the type of marketing approach (i.e., explicit or implicit marketing communications) and the gender of the customer. The experiment participants will be split into two groups - Treatment and Control Group - based on the means of communication they are assigned too.
+
+
+#### Other Variables
+
+ 
+
+Several other variables will be recorded for each customer: 
+
+Demographic information: when enrolling in the experiment, each customer will be providing their demographic information in terms of their address, location and zip code. 
+
+Age in years: Each customer will record age information when they enrol in the experiment and listed in the customer database. 
+
+Income level: annual income level will be recorded when customers decide to participate in the research study. This information will be recorded into different income groups. 
+
+Previous purchase history with Zara: when conducting the sample selection and reaching out to them through email, the eligible selected customers were filtered based on their past purchase history in the last six months; Zara will have this existing information in the customer database. 
+
+
+
+### Statistical Analysis Plan  
+
+ 
+
+1)T test: The first research question explores whether group A (implicit marketing) or group B (direct marketing) has higher average sales based on the different marketing communications. The average number of units sold is the dependent variable for this question. Since we intend to analyze and compare the intermediate units sold by the two groups, we employ a two-sided, two-sample t-test. We choose two-sided since we are testing which one performs better because we are looking for differences and comparing the mean value in two groups based on our data. The test's null hypothesis states that the average number of units sold for the two groups has no significant difference. Also, the alternative hypothesis is to compare Average units sold for group A (A) > Average units sold for group B (B) or Average units sold for group A (A) < Average units sold for Group B (B), we will test for the effect size with a two-sided t-test. 
+
+To determine the statistical significance, a t test looks at the t-statistic, the t-distribution values, and the degrees of freedom. We are using a confidence level of 95%; we set the significance level of this test at 0.05; for instance, if it is 0.01, then reject the null hypothesis. We can say that an observed effect occurs in different marketing communications. If the p-value is more significant than 0.05, we fail to reject the null hypothesis. Hence, we could say that both groups of different marketing strategies produce similar results in terms of sales. 
+
+
+2)T test: We employ a two-sample t-test to assess which strategy is better in terms of the gender of a customer. In both groups (explicit marketing and implicit marketing), we perform a two-sample t-test to measure the effect of units sold in terms of gender between female and male. The independent variable is the gender of the customer, the dependent variable is units sold for each customer. 
+
+By convention, researchers usually use 5% value (p-value <0.05) to determine if the observed difference is significant. A p-value greater than 5% is considered critical, and we would reject the null hypothesis if the p-value is less than the specified range. Null hypothesis of this question is gender will not make a difference in the purchase behavior for both marketing methods, knowing the gender of a customer will not change the marketing strategy that is more efficient. Alternative hypothesis is that gender shows a difference in the purchasing behavior for both groups, gender of a customer will affect the way of marketing strategy that is more efficient and thus, affect the amount of units sold. 
+
+
+
+### Limitations and Uncertainties
+
+ 
+
+Earlier in the fashion industry, customers for sustainable fashion were often characterized by a state of psychological imbalance because consumers may think favourably about sustainability issues. As most people might have expected, they are unwilling to make the sacrifice of accepting the inferior fashion performance that is associated with green fashion products. (Heider, 1958) We aim to test the imbalance to understand whether customers are affected by a different marketing approach. To reach participants for our research study, we randomly selected customers and evenly sent out explicitly or implicitly marketed shopping links. However, limitations emerge along with our research operations. For instance, online shopping might not reveal the customers' actual behaviours.
+
+Since our research studies customers from email invitations, the problem of joint survivorship and participation bias exists. The reason is that those that click on the links and shop with our online store might have a better brand perception of Zara than those who choose not to participate. Customers that are not particularly interested in our brand might opt out from email lists in the first place. On top of that, the data that we collect does not reveal which technique is most effective. For instance, is a green Zara logo driving the sales, or is the sustainable description nudging customer attitudes? The results examined might not serve as a solid implication for our future strategic implementation. Also, the small sample size is a limitation of our study. The total number of 500 participants from two samples is not enough to say that they are representative of the millions of shoppers we have worldwide. We would also be biased if not considering the confounding effect brought by demographics. It could be the case that most participants are from a similar generation, and those in the sample tend to behave in a specific way. Yet, in our research, we can still make conclusions on customers with which generation, income level category, or sex tend to react. By controlling further limitations, we can apply the conclusion for business development.
+ 
+In addition, several uncertainties should also be addressed in our study. We are uncertain if our marketing approach drives their decisions for those who eventually decide to place an order. Though we try to distinguish shopping websites from explicit or implicit marketing techniques while imitating other elements, we cannot conclude that their decision is solely affected by the marketing effort. Confounding factors exist in shoppers' decision-making process. To make our strategy effective, we should be particular about what impacts their decision the most with additional studies. Thus, the results of the research efforts would help to encourage sustainable development in the fast fashion industry.
+
+
+
+## Part 2:  Simulated Studies
+
+ 
+
+T Test: 
+For our first research question, which we aim to diagnose the impact on average number of units sold across the two marketing approaches, we apply a two-sample t test. We create two scenarios of data simulation. The first scenario specifies that the proposed treatment, appealing either implicit or explicit marketing to the customers, has no impact on getting more units sold. We set the n to be 500, since we expect to have 250 participants in each group. We set the mean of units sold to 5 for both marketing communication. As the mean of average units sold in x, explicit marketing, and the mean of units sold in y, implicit marketing, are very similar, the p-value is higher than 0.05. We fail to reject the null hypothesis and we could confidently conclude that utilizing different marketing approaches does not result in significantly different outcomes.
+
+The second scenario states that we expect the proposed treatment to change the number of units sold between the groups. In our data simulation, we assume that explicit marketing will bring us 2 more units sold on average. We change the mean of units sold in explicit marketing to 7 while remaining the units sold by implicit marketing to 5. The mean of the two groups is close to what has been specified, and the p value is lower than 0.05. We can reject the null hypothesis and conclude based on the alternative hypothesis: different marketing approaches lead to a significant difference in units sold, specifically that we expect explicit marketing will bring the sales up.
+
+
+
+### Research Question 1:
+
+#### Scenario 1:  No Effect
+
+ 
+
+
+##### Simulation
+
+``````{r}
+library(data.table)
+library(DT)
+library(pwr)
+library(formatR)
+analyze.experiment <- function(the.dat) {
+  require(data.table)
+  setDT(the.dat)
+  
+  the.test <- t.test(x = the.dat[Group == "Implicit Marketing", 
+                                 Sales], y = the.dat[Group == "Explicit Marketing", Sales], alternative = "two.sided")
+  
+  the.effect <- the.test$estimate[1] - the.test$estimate[2]
+  upper.bound <- the.test$conf.int[2]
+  p <- the.test$p.value
+  
+  result <- data.table(effect = the.effect, upper_ci = upper.bound, 
+                       p = p)
+  
+  return(result)
+}
+```
+```
+
+```{r}
+B <- 500
+n <- 500
+RNGversion(vstr = 3.6)
+set.seed(seed = 1000)
+Experiment <- 1:B
+Group <- c(rep.int(x = "Implicit Marketing", times = n/2), rep.int(x = "Explicit Marketing", times = n/2))
+
+sim.dat2 <- as.data.table(expand.grid(Experiment = Experiment, Group = Group))
+setorderv(x = sim.dat2, cols = c("Experiment", "Group"), order = c(1,1))
+sim.dat2[Group == "Implicit Marketing", Sales := round(x = rnorm(n = .N, mean = 5, sd = 1), digits = 1)]
+sim.dat2[Group == "Explicit Marketing", Sales := round(x = rnorm(n = .N, mean = 5, sd = 1), digits = 1)]
+
+dim(sim.dat2)
+```
+
+```{r}
+head(sim.dat2)
+```
+
+##### Analysis
+
+```{r}
+exp.results2 <- sim.dat2[, analyze.experiment(the.dat = .SD), 
+                       keyby = "Experiment"]
+
+DT::datatable(data = round(x = exp.results2[1:100, ], digits = 3), 
+              rownames = F)
+```
+
+```{r}
+Percentage_False_positives2<-exp.results2[,mean(p<=0.05)*100]
+Percentage_True_Negatives2<-exp.results2[,mean(p>0.05)*100]
+mean_effect2<-round(exp.results2[,mean(effect)],3)
+```
+
+#### Scenario 2:  An Expected Effect
+
+ 
+
+
+##### Simulation
+
+```{r}
+B <- 500
+n <- 500
+RNGversion(vstr = 3.6)
+set.seed(seed = 1000)
+Experiment <- 1:B
+Group <- c(rep.int(x = "Implicit Marketing", times = n/2), rep.int(x = "Explicit Marketing", times = n/2))
+
+sim.dat <- as.data.table(expand.grid(Experiment = Experiment, Group = Group))
+setorderv(x = sim.dat, cols = c("Experiment", "Group"), order = c(1,1))
+sim.dat[Group == "Implicit Marketing", Sales := round(x = rnorm(n = .N, mean = 0.15, sd = 1), digits = 1)]
+sim.dat[Group == "Explicit Marketing", Sales := round(x = rnorm(n = .N, mean = 0.17, sd = 1), digits = 1)]
+dim(sim.dat)
+```
+
+```{r}
+head(sim.dat)
+```
+##### Analysis
+
+```{r}
+exp.results <- sim.dat[, analyze.experiment(the.dat = .SD), 
+                         keyby = "Experiment"]
+
+DT::datatable(data = round(x = exp.results[1:100, ], digits = 3), 
+              rownames = F)
+```
+
+```{r}
+Percentage_False_positives<-exp.results[,mean(p<=0.05)*100]
+Percentage_True_Negatives<-exp.results[,mean(p>0.05)*100]
+mean_effect<-round(exp.results[,mean(effect)],3)
+```
+
+
+### Research Question 2:
+
+#### Scenario 1:  No Effect
+
+ 
+
+
+##### Simulation
+
+```{r q2_scenario1_simulation}
+library(data.table)
+library(DT)
+n <- 500
+set.seed(seed = 329)
+
+data.dat1 <- data.table(Group = c(rep.int(x = "Explicit Marketing", times = n/2), rep.int(x = "Implicit Marketing", times = n/2)))
+data.dat1[Group =="Explicit Marketing", Gender := c(rep.int(x ="Female", times =n*0.6/2), rep.int(x = "Male", times = n*0.4/2))]
+data.dat1[Group =='Implicit Marketing', Gender := c(rep.int(x ="Female", times =n*0.6/2), rep.int(x = "Male", times = n*0.4/2))]
+
+data.dat1[Group == "Explicit Marketing" & Gender == 'Female', Sales := round(x = rnorm(n = .N, mean = 5, sd = 1.8))]
+data.dat1[Group == "Explicit Marketing" & Gender == 'Male', Sales := round(x = rnorm(n = .N, mean = 5, sd = 1.8))]
+data.dat1[Group == "Implicit Marketing" & Gender == 'Female', Sales := round(x = rnorm(n = .N, mean = 5, sd = 1.8))]
+data.dat1[Group == "Implicit Marketing" & Gender == 'Male', Sales := round(x = rnorm(n = .N, mean = 5, sd = 1.8))]
+datatable(data = data.dat1)
+```
+
+##### Analysis
+
+```{r q2_scenario1_analysis}
+# Test
+exp_no_effect <- t.test(x = data.dat1[Group == 'Explicit Marketing' & Gender == "Female", Sales],
+                        y = data.dat1[Group == 'Explicit Marketing' & Gender == "Male", Sales], alternative = "two.sided")
+imp_no_effect <- t.test(x = data.dat1[Group == 'Implicit Marketing' & Gender == "Female", Sales],
+                        y = data.dat1[Group == 'Implicit Marketing' & Gender == "Male", Sales], alternative = "two.sided")
+exp_no_effect
+imp_no_effect
+
+# Effect size in Simulated Data
+d1 <- exp_no_effect$estimate[1]-exp_no_effect$estimate[2]
+d2 <- exp_no_effect$estimate[1]-exp_no_effect$estimate[2]
+d1;d2
+
+# 95% Confidence Interval of Mean Effect
+exp_no_effect$conf.int
+imp_no_effect$conf.int
+```
+
+
+
+#### Scenario 2:  An Expected Effect
+
+
+
+
+##### Simulation
+
+```{r q2_scenario2_simulation}
+set.seed(seed = 329)
+data.dat2 <- data.table(Group = c(rep.int(x = "Explicit Marketing", times = n/2), rep.int(x = "Implicit Marketing", times = n/2)))
+data.dat2[Group =="Explicit Marketing", Gender := c(rep.int(x ="Female", times =n*0.6/2), rep.int(x = "Male", times = n*0.4/2))]
+data.dat2[Group =='Implicit Marketing', Gender := c(rep.int(x ="Female", times =n*0.6/2), rep.int(x = "Male", times = n*0.4/2))]
+
+data.dat2[Group == "Explicit Marketing" & Gender == 'Female', Sales := round(x = rnorm(n = .N, mean = 7, sd = 1.8))]
+data.dat2[Group == "Explicit Marketing" & Gender == 'Male', Sales := round(x = rnorm(n = .N, mean = 5, sd = 1.8))]
+data.dat2[Group == "Implicit Marketing" & Gender == 'Female', Sales := round(x = rnorm(n = .N, mean = 6, sd = 1.8))]
+data.dat2[Group == "Implicit Marketing" & Gender == 'Male', Sales := round(x = rnorm(n = .N, mean = 4, sd = 1.8))]
+
+datatable(data = data.dat2)
+
+```
+
+##### Analysis
+
+```{r q2_scenario2_analysis}
+# t test 
+t_test_exp <- t.test(x = data.dat2[Group == 'Explicit Marketing' & Gender == "Female", Sales],
+                     y = data.dat2[Group == 'Explicit Marketing' & Gender == "Male", Sales], alternative = "two.sided")
+t_test_imp <- t.test(x = data.dat2[Group == 'Implicit Marketing' & Gender == "Female", Sales],
+                     y = data.dat2[Group == 'Implicit Marketing' & Gender == "Male", Sales], alternative = "two.sided")
+
+t_test_exp
+t_test_imp
+
+
+# Effect size in Simulated Data
+d.exp <- t_test_exp$estimate[1]-t_test_exp$estimate[2]
+d.imp <- t_test_imp$estimate[1]-t_test_imp$estimate[2]
+d.exp; d.imp
+
+# 95% Confidence Interval of Mean Effect
+t_test_exp$conf.int
+t_test_imp$conf.int
+```
+
+```{r, echo=FALSE}
+library(knitr)
+Research_Question <- c("Question 1", "Question 1", "Question 2", "Question 2")
+
+Scenario <- c("No Effect","Effect Size: 2 units sold ","No Effect","Effect Size: 2 units sold")
+
+Mean_Effect_Simulated_Data <- c("0", "", "0.1433333", "Explicit Marketing: 2.063333 Implicit Marketing: 1.556667")
+
+percent_95_Confidence_Interval_of_Mean_Effect <- c("-0.07121566  0.27921566", "1.820596 2.179404", "Explicit Marketing: [-0.5430568,  0.2563901] Implicit Marketing: [-0.5738934,  0.4005600]", "Explicit Marketing: [1.606461, 2.520206] Implicit Marketing: [1.105504, 2.007829]")
+
+Percentage_of_False_Positives <- c("4.6%", " ", "5%", "5%")
+
+Percentage_of_True_Negatives <- c("95.4%", " ", "95%", "95%")
+
+Percentage_of_False_Negatives <- c(" ", "6%", "80.24%", "2%")
+
+Percentage_of_True_Positives <- c(" ", "94%", "19.76%", "98%")
+
+  df <- data.frame(Research_Question, Scenario, Mean_Effect_Simulated_Data, percent_95_Confidence_Interval_of_Mean_Effect, percent_95_Confidence_Interval_of_Mean_Effect, Percentage_of_False_Positives, Percentage_of_True_Negatives, Percentage_of_False_Negatives, Percentage_of_True_Positives )
+table <- kable(df[1:4,], caption="Summary" )
+table
+```
+
+## References
+
+**Authors: Harshit Dua - 20%, Hong Wei Lee - 20%, Mansha Manchanda - 20% , Livia Wang - 20%, Wen Wang - 20%**: 
+1)Statement of the Problem
+
+UN Environment Programme (2021). Putting the brakes on fast fashion. UN Environment Programme (UNEP). https://www.unep.org/news-and-stories/story/putting-brakes-fast-fashion#:~:text=The%20fashion%20industry%20produces%20between,a%20typical%20pair%20of%20jeans.
+
+World Resource Institute (August 2021). Roadmap to Net Zero: Delivering Science-Based Targets in the Apparel Sector. World Resource Institute. https://www.wri.org/research/roadmap-net-zero-delivering-science-based-targets-apparel-sector
+
+Le, Ngan (2021). The Impact of Fast Fashion on the Environment. Princeton Student Climate Initiative. Princeton University. https://psci.princeton.edu/tips/2020/7/20/the-impact-of-fast-fashion-on-the-environment#:~:text=The%20s fashion%20industry%20is%20 currently,is%20expected%20within%20a%20decade
+
+Ellen MacArthur Foundation. (2017). A New Textiles Economy: Redesigning fashion’s future. Ellen MacArthur Foundation. https://ellenmacarthurfoundation.org/a-new-textiles-economy
+
+Singh, Prachi (19 June, 2018). Guess partners with I:Collect for wardrobe recycling program. FashionUnited. https://fashionunited.uk/news/fashion/guess-partners-with-i-collect-for-wardrobe-recycling-program/2018061930282
+
+
+2)Research Questions and Hypotheses
+
+Tanner, C. and Kast, S.W. (2003). Promoting sustainable consumption: determinants of green purchases by Swiss consumers. Psychology and Marketing, Vol. 20 No. 10, pp. 883-902.
+
+Twin, A. (2022, March 2). The 4 PS of Marketing. Investopedia. Retrieved April 23, 2022, from https://www.investopedia.com/terms/f/four-ps.asp
+
+
+3)Literature Review
+
+Balderjahn, I., Peyer, M., Seegebarth, B., Wiedmann, K.-P., & Weber, A. (2018). The many faces of sustainability-conscious consumers: A category-independent typology. Journal of Business Research, 91, 83–93. https://doi.org/10.1016/j.jbusres.2018.05.022
+
+Di Benedetto, C. A. (2017). Corporate social responsibility as an emerging business model in fashion marketing. Journal of Global Fashion Marketing, 8(4), 251–265. https://doi.org/10.1080/20932685.2017.1329023
+
+Fernando, J. (2021). Understanding the Law of Supply and Demand. Investopedia. https://www.investopedia.com/terms/l/law-of-supply-demand.asp
+
+Fifita, ’Ilaisaane M. E., Seo, Y., Ko, E., Conroy, D., & Hong, D. (2020). Fashioning organics: Wellbeing, sustainability, and status consumption practices. Journal of Business Research, 117, 664–671. https://doi.org/10.1016/j.jbusres.2019.01.005
+
+Keller, K. L. (1993). Conceptualizing, Measuring, and Managing Customer-Based Brand Equity. Journal of Marketing, 57(1), 1–22. https://doi.org/10.1177/002224299305700101
+
+Kim, J., Kang, S., & Lee, K. H. (2020). How social capital impacts the purchase intention of sustainable fashion products. Journal of Business Research, 117, 596–603. https://doi.org/10.1016/j.jbusres.2018.10.010
+
+Lee, E.-J., Choi, H., Han, J., Kim, D. H., Ko, E., & Kim, K. H. (2020). How to "Nudge" your consumers toward sustainable fashion consumption: An fMRI investigation. Journal of Business Research, 117, 642–651. https://doi.org/10.1016/j.jbusres.2019.09.050
+
+Newman, G. E., Gorlin, M., & Dhar, R. (2014). When Going Green Backfires: How Firm Intentions Shape the Evaluation of Socially Beneficial Product Enhancements. Journal of Consumer Research, 41(3), 823–839. https://doi.org/10.1086/677841
+
+Niinimäki, K. (2010). Eco-clothing, consumer identity, and ideology. Sustainable Development, 18(3), 150–162. https://doi.org/10.1002/sd.455
+
+Steffel, M., Williams, E. F., & Pogacar, R. (2016, October 28). How to Nudge Your Customers Without Pushing Them Away. Harvard Business Review. https://hbr.org/2016/10/how-to-nudge-your-customers-without-pushing-them-away
+
+
+4)Limitations and Uncertainties
+
+Heider, F. (1958) The Psychology of Interpersonal Relations. Lawrence Erlbaum Associates, 0-898S9-282-8. https://scholar.google.com/scholar_lookup?title=The%20psychology%20of%20interpersonal%20relations&author=F.%20Heider&publication_year=1958
+
